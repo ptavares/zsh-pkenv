@@ -1,5 +1,7 @@
 # zsh-pkenv
 
+![GitHub](https://img.shields.io/github/license/ptavares/zsh-pkenv)
+
 zsh plugin for installing and loading [pkenv](https://github.com/iamhsa/pkenv.git)
 >Inpired by [zsh-pyenv](https://github.com/mattberther/zsh-pyenv)
 
